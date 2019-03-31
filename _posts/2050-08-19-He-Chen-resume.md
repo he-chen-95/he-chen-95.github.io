@@ -12,10 +12,8 @@ tags:
 ---
 
 # Contact information
-- Telephone： +86 18792863631 and +33 6 65 34 59 13 
 - Email：chen.he.95@outlook.com and/or chen.he@telecom-st-etienne.fr
 - LinkedIn：http://www.linkedin.com/in/chen-he-055b51110
-- Wechat：HECHEN19940222
 - Desired position: computer vision algorithm engineer, web front-end development, mobile development
 - Expected salary: $3k or more monthly salary before tax, exception for companies that i prefer.
 - City of expectations: France and other Europe regions.
@@ -62,22 +60,30 @@ tags:
 * observe and learn router installation & configuration process.
 
 # Skill list
-The following are my primary skills
-- Front End Framework: Bootstrap, AngularJS, HTML5, ionic
-- Database and backend related: PHP, Sring Boot, MySQL, MongoDB, UML class diagram
-- Computer language: C, C++, Java, Python, Php, JavaScript, HTML, CSS
-- Data Storage: MySQL, MongoDB, Hadoop, Spark
+#### The following are my primary skills
+##### Web Development
+- Web development: AngularJS, React-Native, SpringBoot+Postman (API test).
+- Mobile development: Andoid Native Development, React-Native Development.
+- Graphical interface development: Qt development, OpenCV, OpenGL.
+- Database side: MongoDB (NoSQL).
+##### Data Mining
+- Data Mining: Spark, Hadoop.
 
-The following are the skills I am skilled in.
-- Programming language: Python, C++
-- Deep learning framework: Tensorflow, Caffe, Darknet (yolo)
-- Android app development: Andoid Native Development, React-Native Development, Android Studio
-- Programming software: IDEA, Qt, Visual Studio, PyCharm
-- Other: Unix system and shell commands, Git version control, Docker container, Jira, Trello (agile development)
+#### The following are the skills I am skilled in.
+##### Web Development
+- Web development: HTML5+CSS(Bootstrap)+JS(Jquery)+PHP.
+- Database side: MySQL, UML class diagram.
+- Programming software: MySQL Workbench.
+##### Computer Vision and Machine Learning
+- Deep learning framework: Tensorflow, Caffe, Darknet (yolo).
+- Python Scientific Computing Library: Numpy, Pandas, Scikit-learn, Scipy, Matplotlib.
+- Related software: PyCharm, Anaconda, CUDA.
+##### Operating System and Basic Technology
+- Other: Unix system and shell commands, Git version control, Docker container technology, Trello (agile development).
 
-The following are my office skills
-- Foreign language proficiency: English - TOEIC 800, French: B2 (European Language Unified Reference Framework)
-- Office skills: driver's license - C1, MS office suite, PhotoShop, LaTex editor
+#### The following are my office skills
+- Foreign language proficiency: English - TOEIC 800, French: B2 (European Language Unified Reference Framework).
+- Office skills: driver's license - C1, MS-office, PhotoShop, LaTex editor.
 
 # SOCIAL PRACTICE
 - December 2017 - FASEE - Volunteer activity: Volunteer Staff
