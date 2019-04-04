@@ -11,11 +11,12 @@ tags:
     - 个人简历
 ---
 
-# Contact information
+# CONTACT INFORMATION
 - Email：chen.he.95@outlook.com and/or chen.he@telecom-st-etienne.fr
 - LinkedIn：http://www.linkedin.com/in/chen-he-055b51110
+- Blog：www.hechen.top
 - Desired position: computer vision algorithm engineer, web front-end development, mobile development
-- Expected salary: $3k or more monthly salary before tax, exception for companies that i prefer.
+- Expected salary: €2.5k or more monthly salary before tax, exception for companies that i prefer.
 - City of expectations: France and other Europe regions.
 
 # EDUCATION 
@@ -25,8 +26,6 @@ tags:
  - Licence/2013.09-2016.07-XIDIAN University-Electronic Science and Technology- BEng.
  - Awards and honors：2014-2015 National Encouragement Scholarship
  - work experience：1 year
- - Blog：https://he-chen.github.io
- - Github：https://github.com/he-chen 
 
 # EXPERIENCE
 #### Hubert Curien Laboratory, Saint-Étienne, France - Deep learning Intern - R&D (March 2019 - September 2019)
@@ -59,7 +58,7 @@ tags:
 * provide customer service. 
 * observe and learn router installation & configuration process.
 
-# Skill list
+# SKILL LIST
 #### The following are my primary skills
 ##### Web Development
 - Web development: AngularJS, React-Native, SpringBoot+Postman (API test).
@@ -99,6 +98,6 @@ tags:
 
 --- 
 
-# Thanks
+# THANKS
 Thank you for taking the time to read my resume and look forward to having the opportunity to work with you.
       
