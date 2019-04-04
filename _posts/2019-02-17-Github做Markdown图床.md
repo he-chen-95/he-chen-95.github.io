@@ -24,7 +24,7 @@ tags:
 
 将URL中blob替换为raw，即https://github.com/he-chen/he-chen.github.io/raw/master/img/2016/dandelion.jpeg
 
-![github-windows桌面版](https://github.com/he-chen-95/Chen-Image-Host/blob/master/2019/win-github-desktop.jpg)
+![github-windows桌面版](https://github.com/he-chen-95/Chen-Image-Host/raw/master/2019/win-github-desktop.jpg)
 
 #### GitHub的raw功能
 
