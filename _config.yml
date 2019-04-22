@@ -7,7 +7,7 @@ description: "何晨的个人博客"
 keyword: "Chen, Chen's Blog, 何晨的博客, he-chen, 何晨, Machine Learning, Computer Vision"
 url: "http://he-chen-95.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/he-chen/he-chen.github.io" # you code repository
+github_repo: "https://github.com/he-chen-95/he-chen-95.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
