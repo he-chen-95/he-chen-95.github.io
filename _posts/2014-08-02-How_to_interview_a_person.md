@@ -7,7 +7,7 @@ author:     刘未鹏
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
-    - 技术
+    - 生活
     - 求职
 ---
 
