@@ -8,7 +8,6 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 生活
-    - 影评
 ---
 
 这篇知乎问答个人认为绝对值得一看，不论你是一名正在迷茫中的学生还是已经在工作的朋友~
