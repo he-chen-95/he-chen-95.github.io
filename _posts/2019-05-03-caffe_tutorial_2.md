@@ -96,6 +96,6 @@ F0419 21:47:59.244611 23517 layer_factory.hpp:81] Check failed: registry.count(t
 Unknown layer type: AutoCrop
 原因：如果使用UCLA版本（https://github.com/BVLC/caffe）的标准版caffe,会导致以上问题。此project中，作者自行加入了一些组件（自定义层）。 
 解决方案：
-编译并安装合适的caffe版本
+编译并安装正确的caffe版本
 ~~~
 
