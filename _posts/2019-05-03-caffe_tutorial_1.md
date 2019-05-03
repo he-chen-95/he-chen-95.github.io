@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Caffe简明教程
+title:      Caffe简明教程（一）
 subtitle:   caffe配置文件详解
 date:       2019-05-03
 author:     何晨
