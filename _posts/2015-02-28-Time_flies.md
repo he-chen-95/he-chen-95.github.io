@@ -8,7 +8,6 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 生活
-    - 散文
 ---
 
 我的青春真的逝去了，我这样对自己说，像是在提醒自己什么。
