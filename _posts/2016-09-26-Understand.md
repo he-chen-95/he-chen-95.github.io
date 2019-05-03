@@ -8,7 +8,6 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 生活
-    - 诗歌
 ---
 
 将新折的两支雪梅赠我
