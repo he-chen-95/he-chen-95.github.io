@@ -74,6 +74,7 @@ CUDA_ARCH := -gencode arch=compute_30,code=sm_30 \
 # open for OpenBlas
 # "如果用的是ATLAS计算库则赋值atlas，MKL计算库则用mkl赋值，OpenBlas则赋值open。"
 BLAS := atlas
+# BLAS := open
 
 # Custom (MKL/ATLAS/OpenBLAS) include and lib directories.
 # Leave commented to accept the defaults for your choice of BLAS
@@ -81,6 +82,7 @@ BLAS := atlas
 # "blas库安装目录"
 # BLAS_INCLUDE := /path/to/your/blas
 # BLAS_LIB := /path/to/your/blas
+# BLAS_LIB := /usr/lib/openblas-base
 
 # Homebrew puts openblas in a directory that is not on the standard search path
 # "atlas库安装目录"
@@ -130,6 +132,7 @@ PYTHON_LIB := /usr/lib
 # PYTHON_LIB += $(shell brew --prefix numpy)/lib
 
 # Uncomment to support layers written in Python (will link against Python libs)
+# '使用 python 接口'
 WITH_PYTHON_LAYER := 1
 
 # Whatever else you find you need goes here.
