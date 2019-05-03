@@ -11,18 +11,48 @@ tags:
     - 机器学习
 ---
 
-接下来，我会就caffe的编译过程做一些简要的说明。 
+接下来，我会就caffe的编译过程做一些简要的说明。 当然，你也可以创建一个caffe_installation.sh文件，复制这些命令到shell文件中，实现一键安装caffe
 
 #### 安装过程
 
 ~~~
-1. 安装必要组件
-自行安装　cuda, cudnn, opencv。
+# CAFFE INSTALLATION: http://caffe.berkeleyvision.org/installation.html
 
-sudo apt-get update
-sudo apt-get upgrade
+1. 安装必要组件
+# install optional dependencies
+# cuda, cudnn, opencv.
+
+# Keep Ubuntu or Debian up to date
+sudo apt-get -y update
+sudo apt-get -y upgrade
+sudo apt-get -y dist-upgrade
+sudo apt-get -y autoremove
+
+# Base packages
 sudo apt-get install -y build-essential cmake git pkg-config
-sudo apt-get install -y libprotobuf-dev libleveldb-dev libsnappy-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev libboost-all-dev libgflags-dev libgoogle-glog-dev liblmdb-dev
+
+# DEPENDENCIES
+sudo apt-get install -y libopenblas-dev
+sudo apt-get install -y libatlas-base-dev
+sudo apt-get install -y libprotobuf-dev protobuf-compiler
+sudo apt-get install -y libhdf5-serial-dev
+sudo apt-get install -y libgflags-dev
+sudo apt-get install -y libgoogle-glog-dev
+sudo apt-get install --no-install-recommends libboost-all-dev
+
+# OPTIONAL DEPENDENCIES
+# Install OpenCV 
+sudo apt-get install -y libopencv-dev 
+sudo apt-get install -y liblmdb-dev
+sudo apt-get install -y libleveldb-dev
+sudo apt-get install -y libsnappy-dev
+
+# INTERFACES (Python 3)
+sudo apt-get install -y python3-dev python3-numpy libboost-python-dev
+
+# CLONING
+git clone https://github.com/BVLC/caffe.git
+cd caffe
 
 
 2. 然后进入Python目录安装依赖关系：
@@ -32,17 +62,22 @@ for req in $(cat requirements.txt); do sudo -H pip3 install $req --upgrade; done
 # back to caffe root repo
 cd ..
 
-3. 修改 caffe 目录下的 Makefile 文件：
+3. 修改 caffe 目录下的 Makefile 文件。参考我的上一篇教程
 
-4. 修改 caffe 目录下的makefile.config.
+4. 修改 caffe 目录下的makefile.config。参考我的上一篇教程
+# cp Makefile.config.example Makefile.config
+# Adjust Makefile.config (for example, if using Anaconda Python)
 
 5. 编译
-make all -j8
+make all -j $(($(nproc) + 1))
 这是如果之前的配置或安装出错，那么编译就会出现各种各样的问题，所以前面的步骤一定要细心。
 编译成功后可运行测试：
 make test -j $(($(nproc) + 1))
-sudo make pycaffe -j8
-sudo make runtest -j8
+make pycaffe -j $(($(nproc) + 1))
+make runtest -j $(($(nproc) + 1))
+# compile matlab interface
+# make all matcaffe
+# make mattest
 
 8. 导入caffe
 方法一（将 pycaffe 加入系统环境变量）
