@@ -64,7 +64,7 @@ cd ..
 
 3. 修改 caffe 目录下的 Makefile 文件。参考我的上一篇教程
 
-4. 修改 caffe 目录下的makefile.config。参考我的上一篇教程
+4. 修改 caffe 目录下的 Makefile.config 文件。参考我的上一篇教程
 # cp Makefile.config.example Makefile.config
 # Adjust Makefile.config (for example, if using Anaconda Python)
 
@@ -89,10 +89,11 @@ export PYTHONPATH="/path/to/caffe/python:$PYTHONPATH":$PYTHONPATH
 source ~/.bashrc
 
 方法二（通过绝对路径调用 pycaffe API）
-caffe_root = '/home/charles/Workspace/contour_detection/RCF/rcf/examples'
 import sys
+caffe_root = '/path/to/caffe'
 sys.path.insert(0, caffe_root + 'python')
-import caffe
+or:
+sys.path.append('/path/to/caffe/python')
 
 7. 验证
 编译 pycaffe 成功后，验证一下是否可以在 python 中导入 caffe 包，首先进入 python 环境：
@@ -117,13 +118,23 @@ Error ./include/caffe/util/cudnn.hpp: In function ‘void caffe::cudnn::setConvo
 error: #error -- unsupported GNU version! gcc versions later than 6 are not supported!
 原因： ubuntu18.04默认使用gcc7, g++7，但是caffe不支持该版本的gcc, g++
 解决方案：
-安装低版本gcc和g++，并创建链接（我采用的方案）或更改gcc各版本的优先级（请自行百度）。
+安装低版本gcc和g++，并创建链接（我采用的方案），或注释掉错误代码（不推荐），或更改gcc各版本的优先级（请自行百度）。
+
+方法一
 此处为以后考虑安装了gcc-6和g++-6,大家可以自行决定版本，只要比错误中提到的gcc版本支持上限小就没问题
 sudo apt-get install gcc-6
 sudo apt-get install g++-6
 创建软链接：
 sudo ln -s /usr/bin/gcc-6 /usr/local/cuda/bin/gcc
 sudo ln -s /usr/bin/g++-6 /usr/local/cuda/bin/g++
+
+方法二（不推荐）
+sudo gedit /usr/local/cuda/include/host_config.h
+将
+#error-- unsupported GNU version! gcc versions later than 6 are not supported!
+改为
+//#error-- unsupported GNU version! gcc versions later than 6 are not supported!
+
 
 3. Err3
 
