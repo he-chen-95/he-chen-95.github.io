@@ -11,7 +11,7 @@ tags:
     - 机器学习
 ---
 
-接下来，我会就caffe的编译过程做一些简要的说明。 当然，你也可以创建一个caffe_installation.sh文件，复制这些命令到shell文件中，实现一键安装caffe
+接下来，我会就caffe的编译过程做一些简要的说明。 当然，你也可以创建一个caffe_installation.sh文件，复制这些命令到shell文件中，实现一键安装caffe。
 
 #### 安装过程
 
@@ -53,7 +53,6 @@ sudo apt-get install -y python3-dev python3-numpy libboost-python-dev
 # CLONING
 git clone https://github.com/BVLC/caffe.git
 cd caffe
-
 
 2. 然后进入Python目录安装依赖关系：
 cd /path/to/caffe/python
