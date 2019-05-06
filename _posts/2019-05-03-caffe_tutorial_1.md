@@ -103,17 +103,18 @@ BLAS := atlas
 # PYTHON_INCLUDE := /usr/include/python2.7 \
 # 		/usr/lib/python2.7/dist-packages/numpy/core/include
 
+# 如果使用 conda 作为 python 环境
 # Anaconda Python distribution is quite popular. Include path:
 # Verify anaconda location, sometimes it's in root.
 # ANACONDA_HOME := $(HOME)/anaconda
 # PYTHON_INCLUDE := $(ANACONDA_HOME)/include \
 		# $(ANACONDA_HOME)/include/python2.7 \
 		# $(ANACONDA_HOME)/lib/python2.7/site-packages/numpy/core/include \
-
+		
 # ANACONDA_HOME := $(HOME)/Software/anaconda3
-# PYTHON_INCLUDE := $(ANACONDA_HOME)/envs/rcf-conda/include \
-# 		  $(ANACONDA_HOME)/envs/rcf-conda/include/python3.6m \
-# 		  $(ANACONDA_HOME)/envs/rcf-conda/lib/python3.6/site-packages/numpy/core/include \
+# PYTHON_INCLUDE := $(ANACONDA_HOME)/include \
+# 		  $(ANACONDA_HOME)/include/python3.6m \
+# 		  $(ANACONDA_HOME)/lib/python3.6/site-packages/numpy/core/include \
 
 # Uncomment to use Python 3 (default is Python 2)
 # "这两个文件在/usr/lib/x86_64-linux-gnu/目录下，名为 libboost_python36.so 和 libpython3.6m.so，如果不是这两个名字，相应修改"
@@ -123,9 +124,9 @@ PYTHON_INCLUDE := /usr/include/python3.6m \
 
 # We need to be able to find libpythonX.X.so or .dylib.
 # "python库位置"
-
 PYTHON_LIB := /usr/lib
-# PYTHON_LIB := $(ANACONDA_HOME)/envs/rcf-conda/lib
+# 如果使用 conda 作为 python 环境，请修改如下
+# PYTHON_LIB := $(ANACONDA_HOME)/lib
 
 # Homebrew installs numpy in a non standard path (keg only)
 # PYTHON_INCLUDE += $(dir $(shell python -c 'import numpy.core; print(numpy.core.__file__)'))/include
@@ -139,7 +140,7 @@ WITH_PYTHON_LAYER := 1
 # "Caffe在编译时，会按照 MakeFile.config 里面的 INCLUDE_DIRS 和 LIBRARY_DIRS 寻找要包含的头文件和需要链接的库文件。"
 # INCLUDE_DIRS := $(PYTHON_INCLUDE) /usr/local/include
 # LIBRARY_DIRS := $(PYTHON_LIB) /usr/local/lib /usr/lib
-# 添加 hdf5 库文件
+# 添加 hdf5 库文件，opencv 库文件（ 默认安装路径为  /usr/local/lib ）.
 INCLUDE_DIRS := $(PYTHON_INCLUDE) /usr/local/include /usr/include/hdf5/serial
 LIBRARY_DIRS := $(PYTHON_LIB) /usr/local/lib /usr/lib /usr/lib/x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/hdf5/serial
 
