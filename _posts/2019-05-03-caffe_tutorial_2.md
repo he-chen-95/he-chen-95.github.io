@@ -73,8 +73,8 @@ conda install boost hdf5 snappy leveldb lmdb gflags glog
 # 注意：protobuf不在 ~/anaconda3/include 目录下，而是 ~/anaconda3/pkgs/libprotobuf-3.5.2-h6f1eeef_0，所以需要添加到环境变量中。
 protoc --version  # 查看系统protoc版本
 conda install protobuf==3.5.1
-echo 'export PATH=/home/shaoxiaowen/anaconda3/pkgs/libprotobuf-3.5.2-h6f1eeef_0/bin:$PATH' >> ~/.bashrc
-echo 'export LD_LIBRARY_PATH=/home/shaoxiaowen/anaconda3/pkgs/libprotobuf-3.5.2-h6f1eeef_0/lib:$LD_LI``BRARY_PATH' >> ~/.bashrc
+echo 'export PATH=/home/charles/Software/anaconda3/pkgs/libprotobuf-3.5.2-h6f1eeef_0/bin:$PATH' >> ~/.bashrc
+echo 'export LD_LIBRARY_PATH=/home/charles/Software/anaconda3/pkgs/libprotobuf-3.5.2-h6f1eeef_0/lib:$LD_LI``BRARY_PATH' >> ~/.bashrc
 source ~/.bashrc
 protoc --version  # 查看当前protoc版本
 
@@ -122,7 +122,7 @@ sudo apt install caffe-cuda
 # 上述依赖库都安装完成后，就可以编译caffe
 git clone https://github.com/BVLC/caffe.git
 cd caffe
-# 然后进入Python 目录安装依赖关系：
+# 然后进入Python 目录安装 python interface 所需要的依赖关系：
 cd /path/to/caffe/python
 # use python3 by default
 for req in $(cat requirements.txt); do sudo -H pip3 install $req --upgrade; done
@@ -174,7 +174,25 @@ sys.path.append('/path/to/caffe/python')
 编译 pycaffe 成功后，验证一下是否可以在 python 中导入 caffe 包，首先进入 python 环境：
 your-pc$ python
 >>> import caffe
+
+至此安装结束，此时可用的资源有:
+- C++ 库,包括头文件、动态链接库(或静态链接库)
+- Python 接口
+- 命令行工具，位于安装目录的 bin/ 目录下面
 ~~~
+
+#### 相关概念
+###### Blob
+Blob 是用于存储数据的对象，在 Caffe 中各种数据(图像输入、模型参数)都是以 Blob 的形式在网络中传输的。同时 Blob 还能在 CPU 和 GPU 之间进行同步以支持 CPU/GPU 的混合运算。
+
+###### Layer
+Layer 是网络的次级单元，也是 Caffe 中能在外部进行调整的最小网络结构单元 —— 一般来说，都让同一层的神经元具备相同的性质，因此也就没有必要提供对单个神经元的操作。
+每个 Layer 都会有输入的 Blob 和输出的 Blob。
+
+###### Net
+即一个完整的包含输入层、隐藏层、输出层的深度网络，在 Caffe 中一般是一个卷积神经网络(Convolution Neural Networ, CNN)。
+通过定义不同类型的 Layer，并用 Blob 将不同的 Layer 连接起来，就能产生一个 Net 。
+
 
 #### 常见错误及解决方法
 ~~~
@@ -218,5 +236,10 @@ Unknown layer type: AutoCrop
 原因：如果使用UCLA版本（https://github.com/BVLC/caffe）的标准版caffe,会导致以上问题。此project中，作者自行加入了一些组件（自定义层）。 
 解决方案：
 编译并安装正确的caffe版本
+
+4. Err4
+make 如果出现错误，找不到lib*，请手动找到该 lib 所在的位置，并将其添加到 LD_LIBRARY_PATH。
+sudo find / -name "lib*"
+
 ~~~
 
