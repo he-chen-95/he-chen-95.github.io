@@ -208,7 +208,6 @@ cd path/to/caffe
 #### 常见错误及解决方法
 ~~~
 1. Err1
-
 Error ./include/caffe/util/cudnn.hpp: In function ‘void caffe::cudnn::setConvolutionDesc(cudnnConvolutionStruct**, cudnnTensorDescriptor_t, cudnnFilterDescriptor_t, int, int, int, int)’:
 原因：计算机中的Cudnn版本太新，而当前版本的caffe的cudnn实现与系统所安装的cudnn的版本不一致引起该错误。
 参考： https://github.com/BVLC/caffe/issues/5793
@@ -218,7 +217,6 @@ Error ./include/caffe/util/cudnn.hpp: In function ‘void caffe::cudnn::setConvo
 将./src/caffe/layer里的，所有以cudnn开头的文件，例如cudnn_lrn_layer.cu，cudnn_pooling_layer.cpp，cudnn_sigmoid_layer.cu，都替换成最新版的caffe里的相应的同名文件。
 
 2. Err2
-
 error: #error -- unsupported GNU version! gcc versions later than 6 are not supported!
 原因： ubuntu18.04默认使用gcc7, g++7，但是caffe不支持该版本的gcc, g++
 解决方案：
@@ -247,7 +245,6 @@ sudo gedit /usr/local/cuda/include/host_config.h
 
 
 3. Err3
-
 F0419 21:47:59.244611 23517 layer_factory.hpp:81] Check failed: registry.count(type) == 1 (0 vs. 1) Unknown layer type: AutoCrop (known types: AbsVal, Accuracy, ArgMax, BNLL, BatchNorm, BatchReindex, Bias, Concat, ContrastiveLoss, Convolution, Crop, Data, Deconvolution, Dropout, DummyData, ELU, Eltwise, Embed, EuclideanLoss, Exp, Filter, Flatten, HDF5Data, HDF5Output, HingeLoss, Im2col, ImageData, InfogainLoss, InnerProduct, Input, LRN, LSTM, LSTMUnit, Log, MVN, MemoryData, MultinomialLogisticLoss, PReLU, Parameter, Pooling, Power, Python, RNN, ReLU, Reduction, Reshape, SPP, Scale, Sigmoid, SigmoidCrossEntropyLoss, Silence, Slice, Softmax, SoftmaxWithLoss, Split, TanH, Threshold, Tile, WindowData)
 Unknown layer type: AutoCrop
 原因：如果使用UCLA版本（https://github.com/BVLC/caffe）的标准版caffe,会导致以上问题。此project中，作者自行加入了一些组件（自定义层）。 
