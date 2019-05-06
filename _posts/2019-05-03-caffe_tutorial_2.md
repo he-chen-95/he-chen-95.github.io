@@ -194,6 +194,17 @@ Layer 是网络的次级单元，也是 Caffe 中能在外部进行调整的最�
 通过定义不同类型的 Layer，并用 Blob 将不同的 Layer 连接起来，就能产生一个 Net 。
 
 
+#### 进行测试：
+~~~
+cd path/to/caffe 
+# 下载MNIST数据库并解压缩 
+./data/mnist/get_mnist.sh  
+# 将其转换成Lmdb数据库格式
+./examples/mnist/create_mnist.sh
+# 训练网络
+./examples/mnist/train_lenet.sh  
+~~~
+
 #### 常见错误及解决方法
 ~~~
 1. Err1
@@ -218,14 +229,20 @@ error: #error -- unsupported GNU version! gcc versions later than 6 are not supp
 sudo apt-get install gcc-6
 sudo apt-get install g++-6
 创建软链接：
+sudo rm /usr/bin/gcc
+sudo rm /usr/bin/g++
 sudo ln -s /usr/bin/gcc-6 /usr/local/cuda/bin/gcc
 sudo ln -s /usr/bin/g++-6 /usr/local/cuda/bin/g++
+sudo ldconfig  
+查看 gcc, g++ 版本
+gcc -v
+g++ -v
 
 方法二（不推荐）
 sudo gedit /usr/local/cuda/include/host_config.h
 将
 #error-- unsupported GNU version! gcc versions later than 6 are not supported!
-改为
+注释掉，效果如下
 //#error-- unsupported GNU version! gcc versions later than 6 are not supported!
 
 
@@ -240,6 +257,7 @@ Unknown layer type: AutoCrop
 4. Err4
 make 如果出现错误，找不到lib*，请手动找到该 lib 所在的位置，并将其添加到 LD_LIBRARY_PATH。
 sudo find / -name "lib*"
+sudo find / -iname "*lib*" > /home/ubuntu/Desktop/lib_find.txt
 
 ~~~
 
