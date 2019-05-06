@@ -116,7 +116,7 @@ BLAS := atlas
 # 		  $(ANACONDA_HOME)/envs/rcf-conda/lib/python3.6/site-packages/numpy/core/include \
 
 # Uncomment to use Python 3 (default is Python 2)
-# "这两个文件在/usr/lib/x86_64-linux-gnu/目录下，名为libboost_python36.so和libpython3.6m.so，如果不是这两个名字，相应修改"
+# "这两个文件在/usr/lib/x86_64-linux-gnu/目录下，名为 libboost_python36.so 和 libpython3.6m.so，如果不是这两个名字，相应修改"
 PYTHON_LIBRARIES := boost_python3 python3.6m
 PYTHON_INCLUDE := /usr/include/python3.6m \
                  /usr/lib/python3/dist-packages/numpy/core/include
@@ -136,9 +136,10 @@ PYTHON_LIB := /usr/lib
 WITH_PYTHON_LAYER := 1
 
 # Whatever else you find you need goes here.
-# "Caffe在编译时，会按照MakeFile.config里面的INCLUDE_DIRS和LIBRARY_DIRS寻找要包含的头文件和需要链接的库文件。"
+# "Caffe在编译时，会按照 MakeFile.config 里面的 INCLUDE_DIRS 和 LIBRARY_DIRS 寻找要包含的头文件和需要链接的库文件。"
 # INCLUDE_DIRS := $(PYTHON_INCLUDE) /usr/local/include
 # LIBRARY_DIRS := $(PYTHON_LIB) /usr/local/lib /usr/lib
+# 添加 hdf5 库文件
 INCLUDE_DIRS := $(PYTHON_INCLUDE) /usr/local/include /usr/include/hdf5/serial
 LIBRARY_DIRS := $(PYTHON_LIB) /usr/local/lib /usr/lib /usr/lib/x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/hdf5/serial
 
