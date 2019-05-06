@@ -146,6 +146,10 @@ make all -j $(($(nproc) + 1))
 make test -j $(($(nproc) + 1))
 make runtest -j $(($(nproc) + 1))
 make pycaffe -j $(($(nproc) + 1))
+
+# optional
+# make distribute
+
 # compile matlab interface
 # make all matcaffe
 # make mattest
@@ -166,7 +170,7 @@ sys.path.insert(0, caffe_root + 'python')
 or:
 sys.path.append('/path/to/caffe/python')
 
-7. 验证
+4. 验证 caffe 安装
 编译 pycaffe 成功后，验证一下是否可以在 python 中导入 caffe 包，首先进入 python 环境：
 your-pc$ python
 >>> import caffe
