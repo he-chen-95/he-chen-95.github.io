@@ -23,7 +23,9 @@ tags:
 # cuda, cudnn, opencv.
 
 # Keep Ubuntu or Debian up to date
+# 更新软件列表
 sudo apt-get -y update
+# 更新软件
 sudo apt-get -y upgrade
 sudo apt-get -y dist-upgrade
 sudo apt-get -y autoremove
@@ -32,20 +34,29 @@ sudo apt-get -y autoremove
 sudo apt-get install -y build-essential cmake git pkg-config
 
 # DEPENDENCIES
+# BLAS: 被广泛使用的线性代数库
 sudo apt-get install -y libopenblas-dev
 sudo apt-get install -y libatlas-base-dev
+# Google 开源的一套东西: protobuf: 数据序列化框架。gflags: 命令行参数解析库。glog: 日志记录框架
+# caffe 的 layer 开发以 protobuf 作为格式
 sudo apt-get install -y libprotobuf-dev protobuf-compiler
-sudo apt-get install -y libhdf5-serial-dev
 sudo apt-get install -y libgflags-dev
 sudo apt-get install -y libgoogle-glog-dev
+# Boost(>=1.55): 著名的 C++ 第三方库，Boost 虽然也能从软件源安装，但需要注意版本，如果版本过低还是需要进行编译安装。
 sudo apt-get install --no-install-recommends libboost-all-dev
 
 # OPTIONAL DEPENDENCIES
-# Install OpenCV 
+# OpenCV(>=2.4): 著名的计算机视觉库
+# 1，下载源码包安装，(参考地址)[https://blog.csdn.net/yhaolpz/article/details/71375762]
+# 2，利用自动脚本安装：(参考地址)[https://github.com/jayrambhia/Install-OpenCV]
+# 3，直接从官方安装编译好的opencv库
 sudo apt-get install -y libopencv-dev 
-sudo apt-get install -y liblmdb-dev
+
+# IO 相关的库：hdf5, leveldb, snappy, lmdb.
+sudo apt-get install -y libhdf5-serial-dev
 sudo apt-get install -y libleveldb-dev
 sudo apt-get install -y libsnappy-dev
+sudo apt-get install -y liblmdb-dev
 
 # INTERFACES (Python 3)
 sudo apt-get install -y python3-dev python3-numpy libboost-python-dev
