@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      使用　Github 目录作为图床
+title:      使用 Github 目录作为图床
 subtitle:   如何灵活使用　Github-Raw　文件
 date:       2019-02-17
 author:     何晨
