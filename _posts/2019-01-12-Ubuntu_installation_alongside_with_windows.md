@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Ubuntu双系统安装那些事儿
-subtitle:   Win10下UEFI环境安装Ubuntu 18.04双系统
+title:      Ubuntu 双系统安装那些事儿
+subtitle:   Win10 下 UEFI 环境安装 Ubuntu 18.04 双系统
 date:       2019-01-12
 author:     何晨
 header-img: img/post-bg-coffee.jpeg
