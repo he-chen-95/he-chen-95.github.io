@@ -25,4 +25,4 @@ Pattern-Recognition-and-Machine-Learning | Christopher Bishop |  ML | 50/758 | [
 ###### The paper reading List
 Paper | Author | Domain | Completion | Reference_1 
 -- | :--: | :--: | :--: | --:
-Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions| Matthew Mackayet al. | ML | 2/6 | [Link](https://openreview.net/forum?id=r1eEG20qKQ)
+Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions| Matthew Mackay et al. | ML | 2/6 | [Link](https://openreview.net/forum?id=r1eEG20qKQ)
