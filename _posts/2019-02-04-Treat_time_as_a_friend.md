@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      把时间当做朋友
-subtitle:   读后感
+subtitle:   读书笔记
 date:       2019-02-04
 author:     何晨
 header-img: img/post-bg-2015.jpg
