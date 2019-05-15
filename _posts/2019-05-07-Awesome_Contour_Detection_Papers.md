@@ -1,6 +1,19 @@
-# Awesome-Edge-Detection-Papers
+---
+layout:     post
+title:      Awesome Contour Detection Papers
+subtitle:   A collection of papers on contour detection
+date:       2019-05-03
+author:     HE Chen
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - 技术
+---
 
-##### 2019-05-07-Update 
+
+# Awesome Contour Detection Papers
+
+##### 2019-05-07 - Up to date 
 
 A collection of contour and edge detection papers (*a.k.a.* contour detection or boundary detection).
 
