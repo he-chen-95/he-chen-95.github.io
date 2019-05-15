@@ -2,14 +2,13 @@
 layout:     post
 title:      Awesome Contour Detection Papers
 subtitle:   A collection of papers on contour detection
-date:       2019-05-03
+date:       2019-05-0７
 author:     HE Chen
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 技术
 ---
-
 
 # Awesome Contour Detection Papers
 
@@ -24,6 +23,16 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 |1st column|2nd column|3 column|
 |:---:|:---:|:---:|
 |Input Image|general edge detection|object contour detection|
+
+###### Edge detection: 
+- **Edges** are abrupt pixels at which the luminance, color or stereo change sharply. So the term 'edge' is mostly used to denote image points where intensity difference between pixels are significant.
+
+- **Edge detection** mainly focuses on the changes in brightness, color, and texture, and aims to extract visually salient edges form natural image. it is usually considered as a low-level technique.
+
+###### Contour detection: 
+- **Contours** (or boundaries) are referred to the boundary pixels of meaningful objects. the term 'contour' is used to denote object boundary. 
+- **Contour detection** does edge detection and organizes related edge together to detect border of objects (object-level contours) in images. Thus, in many cases contour detection is performed  by processing the detected edges further.
+
 
 **Outline**
 
