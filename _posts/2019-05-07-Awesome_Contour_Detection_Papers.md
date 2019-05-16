@@ -64,6 +64,8 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 | HED | [Holistically-Nested Edge Detection](http://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf) | ICCV 2015 | [[code]](https://github.com/s9xie/hed) |
 | DeepEdge | [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Bertasius_DeepEdge_A_Multi-Scale_2015_CVPR_paper.pdf) | CVPR 2015 | - |
 | DeepContour | [DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf) | CVPR 2015 | [[code]](https://github.com/shenwei1231/DeepContour) |
+| N4-Field |[N4-fields: Neural network nearest neighbor fields for image transforms](https://arxiv.org/abs/1406.6558)| arXiv 2014 | - |
+| DeepNet | [Visual Boundary Prediction: A Deep Neural Prediction Network and Quality Dissection](http://homepages.inf.ed.ac.uk/ckiw/postscript/aistats14.pdf) | AIStats 2014 | - |
 
 ### 1.2 Object contour detection
 
