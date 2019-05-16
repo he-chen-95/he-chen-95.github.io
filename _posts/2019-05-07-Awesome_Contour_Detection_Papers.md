@@ -69,6 +69,8 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 
 | Short name | Paper | Source | Code/Project Link  |
 | :---: | :---: | :---: | :---: |
+| RefineContourNet | [Object Contour and Edge Detection with RefineContourNet](https://arxiv.org/abs/1904.13353) | arXiv 2019 | - |
+| contouGAN | [Image contour detection with generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0950705118304842) | Elsevier 2018 | [code](https://github.com/sxdxedu/ContourGAN) |
 | COB | [Convolutional Oriented Boundaries](https://arxiv.org/pdf/1608.02755.pdf) | ECCV 2016 | [[code]](https://github.com/kmaninis/COB) [[project]](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/index.html) |
 | CEDN | [Object Contour Detection with a Fully Convolutional Encoder-Decoder Network](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_Object_Contour_Detection_CVPR_2016_paper.pdf) | CVPR 2016 | [[code-caffe]](https://github.com/jimeiyang/objectContourDetector) [[code-TF]](https://github.com/Raj-08/tensorflow-object-contour-detection) |
 | - | [Weakly Supervised Object Boundaries](http://openaccess.thecvf.com/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf) | CVPR 2016 | - |
