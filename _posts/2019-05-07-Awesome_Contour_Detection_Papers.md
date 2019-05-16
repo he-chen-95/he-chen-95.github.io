@@ -62,6 +62,7 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 | RDS | [Learning Relaxed Deep Supervision for Better Edge Detection](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Learning_Relaxed_Deep_CVPR_2016_paper.pdf) | CVPR 2016 | - |
 | HFL | [High-for-Low and Low-for-High: Efficient Boundary Detection from Deep Object Features and its Applications to High-Level Vision](http://openaccess.thecvf.com/content_iccv_2015/papers/Bertasius_High-for-Low_and_Low-for-High_ICCV_2015_paper.pdf) | ICCV 2015 | [[code]](https://github.com/gberta/HFL_code) |
 | HED | [Holistically-Nested Edge Detection](http://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf) | ICCV 2015 | [[code]](https://github.com/s9xie/hed) |
+| Pixel-wise | [Pixel-wise Deep Learning for Contour Detection](https://arxiv.org/pdf/1504.01989.pdf) | ICLR 2015 | - |
 | DeepEdge | [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Bertasius_DeepEdge_A_Multi-Scale_2015_CVPR_paper.pdf) | CVPR 2015 | - |
 | DeepContour | [DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf) | CVPR 2015 | [[code]](https://github.com/shenwei1231/DeepContour) |
 | N4-Field |[N4-fields: Neural network nearest neighbor fields for image transforms](https://arxiv.org/abs/1406.6558)| arXiv 2014 | - |
