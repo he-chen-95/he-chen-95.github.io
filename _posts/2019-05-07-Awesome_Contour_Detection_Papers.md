@@ -120,5 +120,10 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 | Sketch Tokens | [Sketch tokens: A learned mid-level representation for contour and object detection](http://openaccess.thecvf.com/content_cvpr_2013/papers/Lim_Sketch_Tokens_A_2013_CVPR_paper.pdf) | CVPR 2013 | - |
 | SCG | [Discriminatively Trained Sparse Code Gradients for Contour Detection](http://papers.nips.cc/paper/4787-discriminatively-trained-sparse-code-gradients-for-contour-detection.pdf) | NIPS 2012 | - |
 | gPb-owt-ucm | [Contour Detection and Hierarchical Image Segmentation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.374.3367&rep=rep1&type=pdf) | TPAMI 2011 | [[code]](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/BSR/BSR_source.tgz) [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) |
+| Multi-scale |[Multi-scale Improves Boundary Detection in Natural Images](https://homes.cs.washington.edu/~xren/publication/xren_eccv08_multipb.pdf)| 2008 ECCV | - |
+| BEL | [Supervised Learning of Edges and Object Boundaries](https://ieeexplore.ieee.org/abstract/document/1640993)| IEEE 2006 | - |
+| Pb | [Learning to Detect Natural Image BoundariesUsing Local Brightness, Color,and Texture Cues](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/papers/mfm-pami-boundary.pdf)| IEEE Transactions 2004 | - |
+| Statistical Edge | [Learning and Evaluating Edge Cues](https://pdfs.semanticscholar.org/c941/cda0e9af033628fb1de85f02e3cedd4d57e0.pdf)| IEEE Transactions 2003 | - |
 | Canny | [A Computational Approach to Edge Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf) | TPAMI 1986 | - |
-
+| Zero-crossing | [On Edge Detection](https://ieeexplore.ieee.org/document/4767769) | IEEE Transactions 1986 | - |
+| Sobel | [On the accuracy of the Sobel edge detector](https://www.sciencedirect.com/science/article/pii/0262885683900069)| 1983 Elsevier | - |
