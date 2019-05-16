@@ -53,31 +53,31 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 ### 1.1 General edge detection
 
 | Short name | Paper | Source | Code/Project Link  |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | BDCN | [Bi-Directional Cascade Network for Perceptual Edge Detection](https://arxiv.org/pdf/1902.10903.pdf) | CVPR 2019 | [[code]](https://github.com/pkuCactus/BDCN) |
 | LPCB | [Learning to Predict Crisp Boundaries](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ruoxi_Deng_Learning_to_Predict_ECCV_2018_paper.pdf) | ECCV 2018 |  |
 | AMH-Net | [Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction](https://papers.nips.cc/paper/6985-learning-deep-structured-multi-scale-features-using-attention-gated-crfs-for-contour-prediction.pdf) | NIPS 2017 | [[code]](https://github.com/danxuhk/AttentionGatedMulti-ScaleFeatureLearning) |
 | RCF | [Richer Convolutional Features for Edge Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Richer_Convolutional_Features_CVPR_2017_paper.pdf) | CVPR 2017 | [[code-caffe]](https://github.com/yun-liu/rcf) [[code-pytorch]](https://github.com/meteorshowers/RCF-pytorch) [[project]](https://mmcheng.net/zh/rcfEdge/) |
 | CED | [Deep Crisp Boundaries](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Deep_Crisp_Boundaries_CVPR_2017_paper.pdf) | CVPR 2017 | [[code]](https://github.com/Wangyupei/CED) |
-| COB | [Convolutional Oriented Boundaries](https://arxiv.org/pdf/1608.02755.pdf) | ECCV 2016 | [[code]](https://github.com/kmaninis/COB) [[project]](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/index.html) |
 | RDS | [Learning Relaxed Deep Supervision for Better Edge Detection](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Learning_Relaxed_Deep_CVPR_2016_paper.pdf) | CVPR 2016 |  |
-| HFL | [High-for-Low and Low-for-High: Efficient Boundary Detection from Deep Object Features and its Applications to High-Level Vision](http://openaccess.thecvf.com/content_iccv_2015/papers/Bertasius_High-for-Low_and_Low-for-High_ICCV_2015_paper.pdf) | ICCV 2015 |  |
+| HFL | [High-for-Low and Low-for-High: Efficient Boundary Detection from Deep Object Features and its Applications to High-Level Vision](http://openaccess.thecvf.com/content_iccv_2015/papers/Bertasius_High-for-Low_and_Low-for-High_ICCV_2015_paper.pdf) | ICCV 2015 | [code](https://github.com/gberta/HFL_code) |
 | HED | [Holistically-Nested Edge Detection](http://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf) | ICCV 2015 | [[code]](https://github.com/s9xie/hed) |
 | DeepEdge | [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Bertasius_DeepEdge_A_Multi-Scale_2015_CVPR_paper.pdf) | CVPR 2015 |  |
-| DeepContour | [DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf) | CVPR 2015 |  |
+| DeepContour | [DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf) | CVPR 2015 | [code](https://github.com/shenwei1231/DeepContour) |
 
 ### 1.2 Object contour detection
 
 | Short name | Paper | Source | Code/Project Link  |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
+| COB | [Convolutional Oriented Boundaries](https://arxiv.org/pdf/1608.02755.pdf) | ECCV 2016 | [[code]](https://github.com/kmaninis/COB) [[project]](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/index.html) |
 | CEDN | [Object Contour Detection with a Fully Convolutional Encoder-Decoder Network](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_Object_Contour_Detection_CVPR_2016_paper.pdf) | CVPR 2016 | [[code-caffe]](https://github.com/jimeiyang/objectContourDetector) [[code-TF]](https://github.com/Raj-08/tensorflow-object-contour-detection) |
-|  | [Weakly Supervised Object Boundaries](http://openaccess.thecvf.com/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf) | CVPR 2016 |  |
+| - | [Weakly Supervised Object Boundaries](http://openaccess.thecvf.com/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
 ### 1.3 Semantic edge detection (Category-Aware)
 
 | Short name | Paper | Source | Code/Project Link  |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | STEAL | [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/pdf/1904.07934.pdf) | CVPR 2019 | [[project]](https://nv-tlabs.github.io/STEAL/) |
 | DFF | [Dynamic Feature Fusion for Semantic Edge Detection](https://arxiv.org/pdf/1902.09104.pdf) | 1902.09104 |  |
 | SEAL | [Simultaneous Edge Alignment and Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiding_Yu_SEAL_A_Framework_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/Chrisding/seal) |
@@ -88,17 +88,17 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 ### 1.4 Occlusion boundary detection
 
 | Short name | Paper | Source | Code/Project Link  |
-| --- | --- | --- | --- |
-|  | [Occlusion Boundary Detection via Deep Exploration of Context](http://openaccess.thecvf.com/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf) | CVPR 2016 |  |
+| :---: | :---: | :---: | :---: |
+| - | [Occlusion Boundary Detection via Deep Exploration of Context](http://openaccess.thecvf.com/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
 ### 1.5 Edge detection from multi-frames
 
 | Short name | Paper | Source | Code/Project Link  |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | Boundary Flow | [Boundary Flow: A Siamese Network that Predicts Boundary Motion without Training on Motion](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lei_Boundary_Flow_A_CVPR_2018_paper.pdf) | CVPR 2018 |  |
 | LEGO | [LEGO: Learning Edge with Geometry all at Once by Watching Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_LEGO_Learning_Edge_CVPR_2018_paper.pdf) | CVPR 2018 | [[code]](https://github.com/zhenheny/LEGO) |
-|  | [Unsupervised Learning of Edges](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Unsupervised_Learning_of_CVPR_2016_paper.pdf) | CVPR 2016 | [[code]](https://github.com/happyharrycn/unsupervised_edges) |
+| - | [Unsupervised Learning of Edges](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Unsupervised_Learning_of_CVPR_2016_paper.pdf) | CVPR 2016 | [[code]](https://github.com/happyharrycn/unsupervised_edges) |
 
 
 ---
