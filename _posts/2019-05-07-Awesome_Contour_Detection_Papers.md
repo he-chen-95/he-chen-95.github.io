@@ -25,12 +25,13 @@ A collection of contour and edge detection papers (*a.k.a.* contour detection or
 |Input Image|general edge detection|object contour detection|
 
 ###### Edge detection: 
-- **Edges** are abrupt pixels at which the luminance, color or stereo change sharply. So the term 'edge' is mostly used to denote image points where intensity difference between pixels are significant.
+- **Edges** are abrupt pixels at which the luminance, color or stereo change sharply. So the term 'edge' is mostly used to denote image points where intensity difference between pixels are significant. Pixel-level technique.
 
 - **Edge detection** mainly focuses on the changes in brightness, color, and texture, and aims to extract visually salient edges form natural image. it is usually considered as a low-level technique.
 
 ###### Contour detection: 
-- **Contours** (or boundaries) are referred to the boundary pixels of meaningful objects. the term 'contour' is used to denote object boundary. 
+- **Contours** (or boundaries) are referred to the boundary pixels of meaningful objects. the term 'contour' is used to denote object boundary. Object-level.
+
 - **Contour detection** does edge detection and organizes related edge together to detect border of objects (object-level contours) in images. Thus, in many cases contour detection is performed  by processing the detected edges further.
 
 ###### Remarks: 
