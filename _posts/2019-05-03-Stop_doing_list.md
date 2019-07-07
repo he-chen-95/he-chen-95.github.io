@@ -31,7 +31,7 @@ tags:
 |Book|Author|Domain|Completion|Reference_1|Reference_2|Reference_3|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Data Mining: Concepts and Techniques|jiawei HAN|DM|0/740|[web site](https://hanj.cs.illinois.edu/bk3/bk3_slidesindex.htm)|[pdf](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)||
-|Introduction to Data Mining|Pang Ning TAN|DM||0/792|[web site](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)|[pdf](https://bitshifters0.files.wordpress.com/2015/03/introduction-to-data-mining-pang-ning.pdf)||
+|Introduction to Data Mining|Pang Ning TAN|DM|0/792|[web site](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)|[pdf](https://bitshifters0.files.wordpress.com/2015/03/introduction-to-data-mining-pang-ning.pdf)||
 |Python Data Science Handbook|Jake VanderPlas|Data Science|0/10|[web site](http://shop.oreilly.com/product/0636920034919.do)|[github repo](https://github.com/jakevdp/PythonDataScienceHandbook)||
 |Data Mining Algorithm|linyiqun|DM|0/18|[github repo](https://github.com/linyiqun/DataMiningAlgorithm)||
 
@@ -51,4 +51,4 @@ tags:
 
 |Paper|Author|Domain|Completion|Reference_1| 
 |:---:|:---:|:---:|:---:|:---:|
-|Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions|Matthew Mackay et al.|ML|6/6|[Link](https://openreview.net/forum?id=r1eEG20qKQ)|
+|Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions|Matthew Mackay et al.|ML|6/6|[link](https://openreview.net/forum?id=r1eEG20qKQ)|
