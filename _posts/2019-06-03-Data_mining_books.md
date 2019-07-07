@@ -11,8 +11,9 @@ tags:
     - 数据挖掘
 ---
 
-书单 | 数据挖掘，你不应该错过的六本书
+数据挖掘相关资料集合
 
+### 书籍
 #### 一、基础篇
 
 主要目标：帮助大家了解数据挖掘领域的基本概念、代表性算法和评估技术，比如数据的关联分析、分类及聚类算法等，为大家之后进一步学习数据挖掘知识、深入进行科研或在实际场景中应用奠定基础。
@@ -51,13 +52,10 @@ tags:
 
 ##### 1. Recommender Systems: An introduction
 
-作者：Dietmar Jannach、Markus Zanker、Alexander Felfernig、Gerhard Friedrich
-
-中文译名：推荐系统
-
-适合人群：中级到高级学者
-
-推荐指数：★★★★★
+- 作者：Dietmar Jannach、Markus Zanker、Alexander Felfernig、Gerhard Friedrich
+- 中文译名：推荐系统
+- 适合人群：中级到高级学者
+- 推荐指数：★★★★★
 
 主要内容：本书比较全面地介绍了推荐系统涉及的相关知识点，呈现了许多经典算法，并讨论了如何衡量推荐系统的有效性。书中内容分为基本概念和最新进展两部分：前者涉及协同推荐、基于内容的推荐、基于知识的推荐、混合推荐方法，推荐系统的解释、评估推荐系统和实例分析；后者包括针对推荐系统的攻击、在线消费决策、推荐系统和下一代互联网以及普适环境中的推荐。
 
@@ -65,11 +63,9 @@ tags:
 
 ##### 2. Recommender Systems: The Textbook
 
-作者：Charu C. Aggarwal
-
-适合人群：中级到高级学者
-
-推荐指数：★★★★☆
+- 作者：Charu C. Aggarwal
+- 适合人群：中级到高级学者
+- 推荐指数：★★★★☆
 
 主要内容：本书详尽地介绍了推荐系统的方方面面，可以大致地被分为三个部分：“算法和评估”部分探讨了推荐系统中的基础算法，包括协同过滤的方法、基于内容的方法、基于知识的方法、集成方法以及推荐系统的评估方法；“特定领域和上下文下的推荐系统”部分介绍在如时间空间数据、社交数据、标签数据以及信用度数据等不同的上下文场景数据中如何进行推荐；“高级的主题和应用”部分介绍了和推荐系统的鲁棒性相关的内容，如先令系统、攻击模型以及相应的防御模型。
 
@@ -77,13 +73,10 @@ tags:
 
 ##### 3. Sentiment Analysis: Mining Opinions, Sentiments, and Emotions
 
-作者：Bing Liu
-
-中文译名：情感分析：挖掘观点、情感和情绪
-
-适合人群：中级到高级学者
-
-推荐指数：★★★★★
+- 作者：Bing Liu
+- 中文译名：情感分析：挖掘观点、情感和情绪
+- 适合人群：中级到高级学者
+- 推荐指数：★★★★★
 
 主要内容：本书主要从自然语言处理的角度全面地介绍情感分析这个主题中的基础算法以及先进的研究技术和科研结果。书中几乎涵盖了情感分析所有的核心领域，在介绍了情感分析的基本概念和多种基本的情感分析场景后，又解读了多个新兴的情感分析主题，比如辩论分析、意图挖掘、假民意检测等，不仅能够让读者了解通常用于表达观点和情感的问题和语言的基本结构，还能帮助读者深入地探究大量观点挖掘和情感分析的算法和系统。
 
@@ -91,12 +84,38 @@ tags:
 
 ##### 4. 移动数据挖掘
 
-作者：连德富、张富峥、王英子、袁晶、谢幸
-
-适合人群：中级到高级学者
-
-推荐指数：★★★★★
+- 作者：连德富、张富峥、王英子、袁晶、谢幸
+- 适合人群：中级到高级学者
+- 推荐指数：★★★★★
 
 主要内容：本书选取当前学术界和工业界的热点为主题，自成体系，书中以人的轨迹数据，特别是移动社交网络的位置数据为中心，结合人的基本信息及社交网络等相关信息来研究个人与群体的移动模式特性，介绍了移动数据挖掘的基本概念和方法，具体包括移动数据预处理、用户移动模型、用户画像以及兴趣位置推荐等，内容十分新颖。
 
 推荐理由：本书是大数据管理丛书中的一本，书中梳理总结了作者团队过去十年在人群移动数据理解上展开的研究，这些研究经验不仅对于很多实际应用有着重要的价值，也有助于解决一些具有社会意义的科学问题。本书在介绍了移动数据的概念及其价值的同时，还细致地讲解了移动数据领域内的多个前沿研究课题，对于想要深入了解这个领域的学者和工业从业人员是非常好的选择。
+
+### 大学课程、在线教程：
+
+#### Stanford课程：
+- [CS246 Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
+- [CS246H Mining Massive Data Sets: Hadoop Labs](http://web.stanford.edu/class/cs246h/)
+- [CS341 Project in Mining Massive Data Sets](http://web.stanford.edu/class/cs341/)
+
+##### 配套书籍 
+- [Mining of Massive Datasets](http://www.mmds.org/)
+- [DataMiningTalk](http://www.cs.waikato.ac.nz/~ihw/DataMiningTalk/)
+- 备注：Mining of Massive Datasets，中文译本：大数据-互联网大规模数据挖掘与分布式处理；
+#### CMU课程：
+
+- [Data Mining: Spring 2013](http://www.stat.cmu.edu/~ryantibs/datamining/)
+- [Statistics 36-350: Data Mining (fall 2009)](http://www.stat.cmu.edu/~cshalizi/350/)
+
+#### 南京大学课程：
+
+- [Introduction to Data Mining](http://cs.nju.edu.cn/zhouzh/zhouzh.files/course/dm.htm)
+
+#### Coursera：
+- [Data Mining Specialization](https://www.coursera.org/specializations/datamining)
+
+### 实践
+- [Data Mining: Practical Machine Learning Tools and Techniques by Michael R. Berthold](https://www.cs.waikato.ac.nz/ml/weka/book.html)
+- [Intelligent Data Analysis by Michael R. Berthold](https://www.springer.com/gp/book/9783540430605)
+- [WEKA](https://www.ibm.com/developerworks/cn/opensource/os-weka1/index.html#artrelatedtopics)
