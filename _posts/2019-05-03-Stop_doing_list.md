@@ -8,6 +8,8 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 技术
+    - 机器学习
+    - 数据挖掘
 ---
 
 #### Start: What should i start doing.
@@ -34,6 +36,7 @@ tags:
 |Introduction to Data Mining|Pang Ning TAN|DM|0/792|[web site](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)|[pdf](https://bitshifters0.files.wordpress.com/2015/03/introduction-to-data-mining-pang-ning.pdf)||
 |Python Data Science Handbook|Jake VanderPlas|Data Science|0/10|[web site](http://shop.oreilly.com/product/0636920034919.do)|[github repo](https://github.com/jakevdp/PythonDataScienceHandbook)||
 |Data Mining Algorithm|linyiqun|DM|0/18|[github repo](https://github.com/linyiqun/DataMiningAlgorithm)||
+|Mining of Massive Datasets|Jure Leskovec et al.|DM|0/10|[web site](http://www.mmds.org/)||
 
 ##### Mooc
 ###### ML
