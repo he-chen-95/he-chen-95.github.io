@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      2019 Stop Doing List
-subtitle:   Reading list of Machine Learning and Data Mining
-date:       2019-05-03
+title:      Data Mining Books
+subtitle:   Book recommendation
+date:       2019-06-03
 author:     HE Chen
 header-img: img/post-bg-2015.jpg
 catalog: true
