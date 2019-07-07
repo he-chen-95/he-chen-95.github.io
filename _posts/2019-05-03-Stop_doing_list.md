@@ -40,12 +40,19 @@ tags:
 
 |Course|Author|Domain|Completion|Reference_1|Reference_2|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|cs231n CNN for visual recognition|Stanford|CV|10/10|[weeb site](http://cs231n.stanford.edu/)||
-|cs230 DL|Standford|DL|0/10|[web aite](https://web.stanford.edu/class/cs230/)||
-|cs224n NLP with DL|Stanford|NLP|0/10|[web site](http://web.stanford.edu/class/cs224n/)||
+|CS231n CNN for visual recognition|Stanford|CV|10/10|[web site](http://cs231n.stanford.edu/)||
+|CS230 DL|Standford|DL|0/10|[web aite](https://web.stanford.edu/class/cs230/)||
+|CS224n NLP with DL|Stanford|NLP|0/10|[web site](http://web.stanford.edu/class/cs224n/)||
 |Deep Learning for Natural Language Processing|University of Oxford|NLP|0/10|[web site](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)|[github repo](https://github.com/oxford-cs-deepnlp-2017/lectures)|
-|cs229 Machine Learning|Stanford|ML|0/10|[web site](http://cs229.stanford.edu/)|||
-|cs234: Reinforcement Learnin|Stanford|RL|0/10|[web site](http://web.stanford.edu/class/cs234/index.html)||
+|CS229 Machine Learning|Stanford|ML|0/10|[web site](http://cs229.stanford.edu/)|||
+|CS234: Reinforcement Learnin|Stanford|RL|0/10|[web site](http://web.stanford.edu/class/cs234/index.html)||
+
+##### DM
+
+|Course|Author|Domain|Completion|Reference_1|Reference_2|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|CS246: Mining Massive Data Sets|Stanford|DM|0/10|[web site](https://web.stanford.edu/class/cs246/index.html)||
+|CS345A:Data Mining|Stanford|DM|0/10|[web site](https://web.stanford.edu/class/cs345a/)||
 
 ##### The paper reading List
 
