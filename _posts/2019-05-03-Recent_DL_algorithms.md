@@ -8,6 +8,7 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 技术
+    - 机器学习
 ---
 
 ##### Blogs
