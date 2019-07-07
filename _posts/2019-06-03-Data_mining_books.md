@@ -112,7 +112,7 @@ tags:
 
 - [Introduction to Data Mining](http://cs.nju.edu.cn/zhouzh/zhouzh.files/course/dm.htm)
 
-#### 一、Coursera：
+#### 四、Coursera：
 - [Data Mining Specialization](https://www.coursera.org/specializations/datamining)
 
 ### 实践
