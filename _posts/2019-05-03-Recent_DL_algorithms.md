@@ -14,8 +14,8 @@ tags:
 ##### Blogs
 ###### GAN
 
-|Title|Stars|Reference_1|Reference_2|Reference_3|
-|:---:|:---:|:---:|:---:|:---:|
+|Title|Author|Completion|Reference_1|Reference_2|Reference_3|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |GAN完整理论推导|机器之心|8/10|[link](https://zhuanlan.zhihu.com/p/29837245)||
 |GAN原理学习笔记|知乎用户|8/10|[link](https://zhuanlan.zhihu.com/p/27295635)||
 |生成式对抗网络（GAN）基础|知乎用户|7/10|[link](https://zhuanlan.zhihu.com/p/30107433)||
@@ -25,6 +25,6 @@ tags:
 
 ###### GNN
 
-|Title|Stars|Reference_1|Reference_2|Reference_3|
-|:---:|:---:|:---:|:---:|:---:|
+|Title|Author|Completion|Reference_1|Reference_2|Reference_3|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |GNN 综述|机器之心|8/10|[link](https://zhuanlan.zhihu.com/p/57235377)|[action](https://zhuanlan.zhihu.com/p/57235377)|
