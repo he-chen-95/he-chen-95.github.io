@@ -41,16 +41,16 @@ tags:
 ##### Mooc
 ###### ML
 
-|Course|Author|Domain|Completion|Reference_1|Reference_2|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|CS231n CNN for visual recognition|Stanford|CV|10/10|[web site](http://cs231n.stanford.edu/)||
-|CS230 DL|Standford|DL|0/10|[web aite](https://web.stanford.edu/class/cs230/)||
-|CS224n NLP with DL|Stanford|NLP|0/10|[web site](http://web.stanford.edu/class/cs224n/)||
-|Deep Learning for Natural Language Processing|University of Oxford|NLP|0/10|[web site](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)|[github repo](https://github.com/oxford-cs-deepnlp-2017/lectures)|
+|Course|Author|Domain|Completion|Reference_1|Reference_2|Reference_3|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|CS231n CNN for visual recognition|Stanford|CV|10/10|[web site](http://cs231n.stanford.edu/)|||
+|CS230 DL|Standford|DL|0/10|[web aite](https://web.stanford.edu/class/cs230/)|||
+|CS224n NLP with DL|Stanford|NLP|0/10|[web site](http://web.stanford.edu/class/cs224n/)|||
+|Deep Learning for Natural Language Processing|University of Oxford|NLP|0/10|[web site](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)|[github repo](https://github.com/oxford-cs-deepnlp-2017/lectures)||
 |CS229 Machine Learning|Stanford|ML|0/10|[web site](http://cs229.stanford.edu/)|||
-|CS234: Reinforcement Learnin|Stanford|RL|0/10|[web site](http://web.stanford.edu/class/cs234/index.html)||
+|CS234: Reinforcement Learnin|Stanford|RL|0/10|[web site](http://web.stanford.edu/class/cs234/index.html)|||
 |DL/ML tutoria|Hung-yi Lee|ML|2/10|[link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)||
-
+|CSC 321 Intro to Neural Networks and Machine Learning|University of Toronto|MLDL|0/10|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[github repo](https://github.com/davifrossard/CSC321)|
 ##### DM
 
 |Course|Author|Domain|Completion|Reference_1|Reference_2|
