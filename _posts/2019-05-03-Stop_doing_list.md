@@ -49,7 +49,7 @@ tags:
 |Deep Learning for Natural Language Processing|University of Oxford|NLP|0/10|[web site](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)|[github repo](https://github.com/oxford-cs-deepnlp-2017/lectures)||
 |CS229 Machine Learning|Stanford|ML|0/10|[web site](http://cs229.stanford.edu/)|||
 |CS234: Reinforcement Learnin|Stanford|RL|0/10|[web site](http://web.stanford.edu/class/cs234/index.html)|||
-|DL/ML tutoria|Hung-yi Lee|ML|2/10|[link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)||
+|DL/ML tutorial|Hung-yi Lee|ML|2/10|[link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)||
 |CSC 321 Intro to Neural Networks and Machine Learning|University of Toronto|MLDL|0/10|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[github repo](https://github.com/davifrossard/CSC321)|
 ##### DM
 
