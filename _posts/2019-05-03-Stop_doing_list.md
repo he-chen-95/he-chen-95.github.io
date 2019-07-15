@@ -60,6 +60,7 @@ tags:
 |CS246: Mining Massive Data Sets|Stanford|DM|0/10|[web site](https://web.stanford.edu/class/cs246/index.html)||
 |CS109 Data Science|Harvard|DM|0/10|[web site](http://cs109.github.io/2015/pages/videos.html)||
 |Big Data Specialization|University of California San Diego|DM|0/10|[web site](https://www.coursera.org/specializations/big-data/)||
+
 ##### The paper reading List
 
 |Paper|Author|Domain|Completion|Reference_1| 
