@@ -52,12 +52,12 @@ tags:
 |DL/ML tutorial|Hung-yi Lee|ML|2/10|[link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)||
 |CSC 321 Intro to Neural Networks and Machine Learning|University of Toronto|MLDL|0/10|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[github repo](https://github.com/davifrossard/CSC321)|
 |Deep learning|Google|DL|0/10|[web site](https://eu.udacity.com/course/deep-learning--ud730)|||
+
 ##### DM
 
 |Course|Author|Domain|Completion|Reference_1|Reference_2|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |CS246: Mining Massive Data Sets|Stanford|DM|0/10|[web site](https://web.stanford.edu/class/cs246/index.html)||
-|CS345A:Data Mining|Stanford|DM|0/10|[web site](https://web.stanford.edu/class/cs345a/)||
 |CS109 Data Science|Harvard|DM|0/10|[web site](http://cs109.github.io/2015/pages/videos.html)||
 |Big Data Specialization|University of California San Diego|DM|0/10|[web site](https://www.coursera.org/specializations/big-data/)||
 ##### The paper reading List
