@@ -19,9 +19,6 @@ tags:
 |GAN完整理论推导|机器之心|8/10|[link](https://zhuanlan.zhihu.com/p/29837245)|[link](https://www.jiqizhixin.com/articles/2017-10-1-1)|
 |GAN原理学习笔记|知乎用户|8/10|[link](https://zhuanlan.zhihu.com/p/27295635)||
 |生成式对抗网络（GAN）基础|知乎用户|7/10|[link](https://zhuanlan.zhihu.com/p/30107433)||
-|GAN学习指南：制作Demo|知乎用户|6/10|[link](https://zhuanlan.zhihu.com/p/24767059)||
-|DL/ML tutoria|Hung-yi Lee|2/10|[link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)|
-
 
 ###### GNN
 
