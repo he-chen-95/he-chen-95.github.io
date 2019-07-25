@@ -94,17 +94,17 @@ tags:
 
 ### 大学课程、在线教程：
 
-#### 二、CMU课程：
+#### CMU课程：
 - [Data Mining: Spring 2013](http://www.stat.cmu.edu/~ryantibs/datamining/)
 - [Statistics 36-350: Data Mining (fall 2009)](http://www.stat.cmu.edu/~cshalizi/350/)
 
-#### 三、南京大学课程：
+#### 南京大学课程：
 - [Introduction to Data Mining](http://cs.nju.edu.cn/zhouzh/zhouzh.files/course/dm.htm)
 
-#### 四、Coursera：
+#### Coursera：
 - [Data Mining Specialization](https://www.coursera.org/specializations/datamining)
 
-### 实践
+#### 实践
 - [Data Mining: Practical Machine Learning Tools and Techniques by Michael R. Berthold](https://www.cs.waikato.ac.nz/ml/weka/book.html)
 - [Intelligent Data Analysis by Michael R. Berthold](https://www.springer.com/gp/book/9783540430605)
 - [WEKA](https://www.ibm.com/developerworks/cn/opensource/os-weka1/index.html#artrelatedtopics)
