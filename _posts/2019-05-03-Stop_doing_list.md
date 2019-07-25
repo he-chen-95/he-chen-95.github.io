@@ -30,13 +30,16 @@ tags:
 
 ###### DM
 
-|Book|Author|Domain|Completion|Reference_1|Reference_2|Reference_3|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Data Mining: Concepts and Techniques|jiawei HAN|DM|0/740|[web site](https://hanj.cs.illinois.edu/bk3/bk3_slidesindex.htm)|[pdf](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)||
-|Introduction to Data Mining|Pang Ning TAN|DM|0/792|[web site](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)|[pdf](https://bitshifters0.files.wordpress.com/2015/03/introduction-to-data-mining-pang-ning.pdf)||
-|Python Data Science Handbook|Jake VanderPlas|Data Science|0/10|[web site](http://shop.oreilly.com/product/0636920034919.do)|[github repo](https://github.com/jakevdp/PythonDataScienceHandbook)||
-|Data Mining Algorithm|linyiqun|DM|0/18|[github repo](https://github.com/linyiqun/DataMiningAlgorithm)||
-|Mining of Massive Datasets|Jure Leskovec et al.|DM|0/10|[web site](http://www.mmds.org/)||
+|Book|Author|Domain|Completion|Reference_1|Reference_2|Reference_3|Reference_4|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Data Mining: Concepts and Techniques|jiawei HAN et al.|DM|0/740|[web site](https://hanj.cs.illinois.edu/bk3/bk3_slidesindex.htm)|[pdf](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)|chinese version：数据挖掘：概念与技术|Primary to intermediate level|
+|Introduction to Data Mining|Pang Ning TAN|DM|0/792|[web site](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)|[pdf](https://bitshifters0.files.wordpress.com/2015/03/introduction-to-data-mining-pang-ning.pdf)|chinese version：数据挖掘导论|Primary to intermediate level|
+|Python Data Science Handbook|Jake VanderPlas|Data Science|0/10|[web site](http://shop.oreilly.com/product/0636920034919.do)|[github repo](https://github.com/jakevdp/PythonDataScienceHandbook)|||
+|Recommender Systems: An introduction|Dietmar Jannach et al.|DM|0/0|||chinese version：推荐系统|Intermediate to advanced level|
+|Recommender Systems: The Textbook|Charu C. Aggarwal||||||Intermediate to advanced level|
+|Sentiment Analysis: Mining Opinions, Sentiments, and Emotions|Bing Liu|||||chinese version：情感分析：挖掘观点、情感和情绪|Intermediate to advanced level|
+|Data Mining Algorithm|linyiqun|DM|0/18|[github repo](https://github.com/linyiqun/DataMiningAlgorithm)|||
+|Mining of Massive Datasets|Jure Leskovec et al.|DM|0/10|[web site](http://www.mmds.org/)||chinese version: 大数据-互联网大规模数据挖掘与分布式处理||
 
 ##### Mooc
 ###### ML
@@ -52,7 +55,7 @@ tags:
 |DL/ML tutorial|Hung-yi Lee|ML|2/10|[link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)||
 |CSC 321 Intro to Neural Networks and Machine Learning|University of Toronto|MLDL|0/10|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[github repo](https://github.com/davifrossard/CSC321)|
 |Deep learning|Google|DL|0/10|[web site](https://eu.udacity.com/course/deep-learning--ud730)|||
-
+|DL/ML tutoria|Hung-yi Lee, taiwan university|MLDL|2/10|[web site](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)|||
 ##### DM
 
 |Course|Author|Domain|Completion|Reference_1|Reference_2|
@@ -60,8 +63,20 @@ tags:
 |CS246: Mining Massive Data Sets|Stanford|DM|0/10|[web site](https://web.stanford.edu/class/cs246/index.html)||
 |CS109 Data Science|Harvard|DM|0/10|[web site](http://cs109.github.io/2015/pages/videos.html)||
 |Big Data Specialization|University of California San Diego|DM|0/10|[web site](https://www.coursera.org/specializations/big-data/)||
+|Introduction to Data Mining|NanJing university|DM|0/0|[site web](http://cs.nju.edu.cn/zhouzh/zhouzh.files/course/dm.htm)||
+|Data Mining Specialization|coursera|DM|0/0|[site web](https://www.coursera.org/specializations/datamining)||
+|Data Mining: Spring 2013|CMU|DM|0/0|[web site](http://www.stat.cmu.edu/~ryantibs/datamining/)||
+|Statistics 36-350: Data Mining (fall 2009)|CMU|DM|0/0|[web site](http://www.stat.cmu.edu/~cshalizi/350/)||
 
-##### The paper reading List
+###### practical 
+
+|Course|Author|Domain|Completion|Reference_1|Reference_2|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Data Mining: Practical Machine Learning Tools and Techniques|Michael R. Berthold|DM|0/0|[web](https://www.cs.waikato.ac.nz/ml/weka/book.html)||
+|Intelligent Data Analysis|Michael R. Berthold|DM|0/0|[web](https://www.springer.com/gp/book/9783540430605)||
+|WEKA||||[web](https://www.ibm.com/developerworks/cn/opensource/os-weka1/index.html#artrelatedtopics)||
+
+##### papers reading list
 
 |Paper|Author|Domain|Completion|Reference_1| 
 |:---:|:---:|:---:|:---:|:---:|
