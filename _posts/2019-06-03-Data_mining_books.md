@@ -94,22 +94,11 @@ tags:
 
 ### 大学课程、在线教程：
 
-#### 一、Stanford课程：
-- [CS246 Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
-- [CS246H Mining Massive Data Sets: Hadoop Labs](http://web.stanford.edu/class/cs246h/)
-- [CS341 Project in Mining Massive Data Sets](http://web.stanford.edu/class/cs341/)
-
-##### 配套书籍 
-- [Mining of Massive Datasets](http://www.mmds.org/)
-- [DataMiningTalk](http://www.cs.waikato.ac.nz/~ihw/DataMiningTalk/)
-- 备注：Mining of Massive Datasets，中文译本：大数据-互联网大规模数据挖掘与分布式处理；
-
 #### 二、CMU课程：
 - [Data Mining: Spring 2013](http://www.stat.cmu.edu/~ryantibs/datamining/)
 - [Statistics 36-350: Data Mining (fall 2009)](http://www.stat.cmu.edu/~cshalizi/350/)
 
 #### 三、南京大学课程：
-
 - [Introduction to Data Mining](http://cs.nju.edu.cn/zhouzh/zhouzh.files/course/dm.htm)
 
 #### 四、Coursera：
