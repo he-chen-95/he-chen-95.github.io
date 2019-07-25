@@ -55,7 +55,6 @@ tags:
 |DL/ML tutorial|Hung-yi Lee|ML|2/10|[link](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)||
 |CSC 321 Intro to Neural Networks and Machine Learning|University of Toronto|MLDL|0/10|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[web site](http://www.cs.toronto.edu/~tijmen/csc321/)|[github repo](https://github.com/davifrossard/CSC321)|
 |Deep learning|Google|DL|0/10|[web site](https://eu.udacity.com/course/deep-learning--ud730)|||
-|DL/ML tutoria|Hung-yi Lee, taiwan university|MLDL|2/10|[web site](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)|[youtube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)|||
 
 ##### DM
 
