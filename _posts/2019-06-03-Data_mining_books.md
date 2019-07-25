@@ -91,20 +91,3 @@ tags:
 主要内容：本书选取当前学术界和工业界的热点为主题，自成体系，书中以人的轨迹数据，特别是移动社交网络的位置数据为中心，结合人的基本信息及社交网络等相关信息来研究个人与群体的移动模式特性，介绍了移动数据挖掘的基本概念和方法，具体包括移动数据预处理、用户移动模型、用户画像以及兴趣位置推荐等，内容十分新颖。
 
 推荐理由：本书是大数据管理丛书中的一本，书中梳理总结了作者团队过去十年在人群移动数据理解上展开的研究，这些研究经验不仅对于很多实际应用有着重要的价值，也有助于解决一些具有社会意义的科学问题。本书在介绍了移动数据的概念及其价值的同时，还细致地讲解了移动数据领域内的多个前沿研究课题，对于想要深入了解这个领域的学者和工业从业人员是非常好的选择。
-
-### 大学课程、在线教程：
-
-#### CMU课程：
-- [Data Mining: Spring 2013](http://www.stat.cmu.edu/~ryantibs/datamining/)
-- [Statistics 36-350: Data Mining (fall 2009)](http://www.stat.cmu.edu/~cshalizi/350/)
-
-#### 南京大学课程：
-- [Introduction to Data Mining](http://cs.nju.edu.cn/zhouzh/zhouzh.files/course/dm.htm)
-
-#### Coursera：
-- [Data Mining Specialization](https://www.coursera.org/specializations/datamining)
-
-#### 实践
-- [Data Mining: Practical Machine Learning Tools and Techniques by Michael R. Berthold](https://www.cs.waikato.ac.nz/ml/weka/book.html)
-- [Intelligent Data Analysis by Michael R. Berthold](https://www.springer.com/gp/book/9783540430605)
-- [WEKA](https://www.ibm.com/developerworks/cn/opensource/os-weka1/index.html#artrelatedtopics)
