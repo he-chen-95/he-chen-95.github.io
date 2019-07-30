@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      有哪些可以免费使用的 VPN 。
-subtitle:   个人 VPN 搭建教程
+title:      有哪些可以免费使用的 VPN ?
+subtitle:   VPN 搭建教程
 date:       2017-07-05
 author:     何晨
 header-img: img/post-bg-2015.jpg
