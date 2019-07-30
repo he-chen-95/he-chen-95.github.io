@@ -22,7 +22,7 @@ tags:
 - 终端数： 1个
 - 网址：[HIDEME](https://hide.me/en/?friend=5c6b86519399b)【需翻墙】
  
-##### 蓝灯
+##### Lantern
 - 费用：免费
 - 流量：500M一个月【无需注册】
 - 支持终端：Linux、Windows、MacOS、Android
