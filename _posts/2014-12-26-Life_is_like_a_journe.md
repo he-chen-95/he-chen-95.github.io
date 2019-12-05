@@ -3,7 +3,7 @@ layout:     post
 title:      人生如逆旅，我亦是过客
 subtitle:   记上海七日游
 date:       2014-12-26
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
