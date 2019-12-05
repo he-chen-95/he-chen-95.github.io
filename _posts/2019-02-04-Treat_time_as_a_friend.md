@@ -3,11 +3,11 @@ layout:     post
 title:      把时间当做朋友
 subtitle:   读书笔记
 date:       2019-02-04
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 去年阅读了《把时间当做朋友》这本书，我在阅读之后进行了反思。下面我会把一些有助于我成长的观点记录下来。
