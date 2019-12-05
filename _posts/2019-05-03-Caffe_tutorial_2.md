@@ -3,12 +3,12 @@ layout:     post
 title:      Caffe 简明教程（二）
 subtitle:   caffe的编译和安装
 date:       2019-05-03
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 技术
-    - 机器学习
+    - IT
+    - ML
 ---
 
 接下来，我会就caffe的编译过程做一些简要的说明。 当然，你也可以创建一个caffe_installation.sh文件，复制这些命令到shell文件中，实现一键安装caffe。
