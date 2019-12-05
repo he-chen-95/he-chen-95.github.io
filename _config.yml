@@ -1,17 +1,17 @@
 # Site settings
 title: Chen's Blog
-SEOTitle: 何晨的博客 | Chen's Blog
+SEOTitle: Chen's Blog
 header-img: img/post-bg-universe.jpg
 email: chen.he@telecom-st-etienne.fr
-description: "何晨的个人博客"
-keyword: "Chen, Chen's Blog, 何晨的博客, he-chen, 何晨, Machine Learning, Computer Vision"
+description: "He Chen's Personal Blog"
+keyword: "Chen HE, 何晨, 何晨的博客, Machine Learning, Data Science"
 url: "http://he-chen-95.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/he-chen-95/he-chen-95.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "人生就像骑单车，想保持平衡就得往前走!"
+sidebar-about-description: "Life is like riding a bicycle. To keep your balance, you must keep moving. - Albert Einstein"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
