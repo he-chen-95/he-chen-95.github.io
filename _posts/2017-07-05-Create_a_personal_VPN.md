@@ -3,11 +3,11 @@ layout:     post
 title:      有哪些可以免费使用的 VPN ?
 subtitle:   VPN 搭建教程
 date:       2017-07-05
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 技术
+    - IT
 ---
 
 最近因为使用谷歌的搜索服务而需要使用到 VPN ，所以就在网上找了一些教程来帮助自己搭建 VPN 。
