@@ -3,11 +3,11 @@ layout:     post
 title:      花开在六月
 subtitle:   记高考那天的心路历程
 date:       2013-06-07
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 六月七日，高考之后，天气灰蒙。有意无心时，借此笔，记此时。壮志难酬。此时如骨鲠在喉，不吐不快，于是记下这似水流年的青春。
