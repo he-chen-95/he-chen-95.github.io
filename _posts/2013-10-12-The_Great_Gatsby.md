@@ -7,7 +7,7 @@ author:     网友金煜寒
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 网友金煜寒对小说《了不起的盖茨比》到底好在哪里？给出的答复：
