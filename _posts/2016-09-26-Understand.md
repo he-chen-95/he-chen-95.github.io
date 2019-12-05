@@ -3,7 +3,7 @@ layout:     post
 title:      如今 了悟
 subtitle:   转载自微信公众号-鹏哥和娇妹
 date:       2016-09-26
-author:     阿娇
+author:     网友阿娇
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
