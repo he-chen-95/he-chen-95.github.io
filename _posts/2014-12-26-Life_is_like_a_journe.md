@@ -7,7 +7,7 @@ author:     何晨
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 #### 初见上海
