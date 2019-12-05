@@ -3,11 +3,11 @@ layout:     post
 title:      一杯凉白开
 subtitle:   生活从来都不只是生活
 date:       2016-07-05
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 ##### 聚散苦匆匆，此恨无穷，今年花胜去年红，可惜明年花更好，知与谁同。-《浪淘沙》
