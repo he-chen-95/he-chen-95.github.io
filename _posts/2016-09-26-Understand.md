@@ -7,7 +7,7 @@ author:     阿娇
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 将新折的两支雪梅赠我
