@@ -3,11 +3,11 @@ layout:     post
 title:      逝者如斯，不舍昼夜
 subtitle:   某日有感
 date:       2015-02-28
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 我的青春真的逝去了，我这样对自己说，像是在提醒自己什么。
