@@ -3,11 +3,11 @@ layout:     post
 title:      成为那个自己
 subtitle:   生活随感
 date:       2017-08-20
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 正值晚上一点左右，抬头可见窗外隐约闪烁着的灯光，当然还可以看见黑漆漆的一条河流，杜鹃河一路蜿蜒，静静地流淌而下。外面偶尔还可听见老猫的呜咽，以及时有时无的犬吠。我坐在床上，盯着发着白光的手机屏幕想要倾诉些什么。
