@@ -3,12 +3,12 @@ layout:     post
 title:      Caffe 简明教程（一）
 subtitle:   caffe配置文件详解
 date:       2019-05-03
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 技术
-    - 机器学习
+    - IT
+    - ML
 ---
 
 最近由于项目的需要开始研究和使用caffe框架。由于我也只是初学者，文中难免会有纰漏，欢迎大家指出。你可以在下方留言，我会尽量改正错误。
