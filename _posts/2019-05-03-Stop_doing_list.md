@@ -7,9 +7,9 @@ author:     HE Chen
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 技术
-    - 机器学习
-    - 数据挖掘
+    - IT
+    - ML
+    - DM
 ---
 
 #### Start: What should i start doing.
