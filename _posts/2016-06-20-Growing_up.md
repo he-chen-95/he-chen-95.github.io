@@ -3,11 +3,11 @@ layout:     post
 title:      成长
 subtitle:   挥一挥衣袖，不带走一片云彩
 date:       2016-06-20
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
-    - 生活
+    - life
 ---
 
 所有的成长，都在收拾行李的那一刻看的格外清晰。所有青苗拔节的痛楚，都在慌不择路的跌跌撞撞中涌上心头。所有夏天的燥热与悸动，都在各顾自的来来往往里，不经意地迎来一阵徐徐的清风。
