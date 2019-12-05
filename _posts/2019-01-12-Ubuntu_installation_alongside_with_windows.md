@@ -3,11 +3,11 @@ layout:     post
 title:      Ubuntu 双系统安装那些事儿
 subtitle:   Win10 下 UEFI 环境安装 Ubuntu 18.04 双系统
 date:       2019-01-12
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
-    - 技术
+    - IT
 ---
 
 安装Ubuntu之前，默认大家都已经在自己的计算机上安装了windows系统，那么下面开始讲一下详细安装流程。
