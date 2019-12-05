@@ -3,11 +3,11 @@ layout:     post
 title:      Markdown 语法指南
 subtitle:   语法指南和常见错误
 date:       2019-05-04
-author:     何晨
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 技术
+    - IT
 ---
 
 最近撰写博文，需要用到一些　markdown 语法，下面写一下自己的学习历程。
