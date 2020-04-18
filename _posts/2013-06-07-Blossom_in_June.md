@@ -51,10 +51,6 @@ tags:
 夹杂对未来的向往
 
 ---
-               
-![雨天的街道-2](https://github.com/he-chen-95/chen-image-host/raw/master/2019/rain-street-west.jpg)
-
----
 
 路边那初绽的野花
 
@@ -79,10 +75,6 @@ tags:
 开始地平淡无奇
 
 结束地却太过突然
-
----
-
-![雨天的海洋](https://github.com/he-chen-95/chen-image-host/raw/master/2019/rain-ocean.jpg)
 
 ---
 
