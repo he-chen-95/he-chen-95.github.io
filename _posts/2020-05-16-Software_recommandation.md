@@ -12,11 +12,11 @@ tags:
 
 ## My software recommendations for PhD student 
 
-Two weeks ago, my laptop was broken down, my university arranged to repair it within a few days.  However, i have reinstall all useful applications for thesis preparation. Many PhD student often ask for tips on  how to manage their works. At the beginning of my PhD, i tried out lots of different computer applications to manage my work. Here are some applications or website i'd like to recommend to any PhD student.
+Two weeks ago, my laptop was broken down, my university arranged to repair it within a few days.  However, i have to reinstall all useful applications for thesis preparation. It's really annoying. Many PhD student often ask for tips on how to manage their works. At the beginning of my PhD, i tried out lots of different computer applications to manage my work. Here are some applications or website i'd like to recommend to any PhD student.
 
 ###### Literature search 
 
-There are a large number of available digital tools that could help researches search the millions of published articles. 
+There are a large number of available digital tools that could help researches search the millions of published articles. Here, i list some tools that really helps for literature search.
 
 Google Scholar:  It is a popular search engine that helps researchers find scholarly literature using relevant keywords.
 
