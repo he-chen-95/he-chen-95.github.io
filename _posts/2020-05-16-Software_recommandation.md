@@ -10,7 +10,7 @@ tags:
     - IT
 ---
 
-## My software recommendations for PhD student 
+## My software recommendations for PhD students
 
 Two weeks ago, my laptop was broken down, my university arranged to repair it within a few days.  However, I have to reinstall all useful applications for thesis preparation. It's annoying. Many Ph.D. students often ask for tips on how to manage their works. At the beginning of my Ph.D., I tried out lots of different computer applications to manage my work. Here are some applications or websites I'd like to recommend to any Ph.D. student.
 
