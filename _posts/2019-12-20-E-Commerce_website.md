@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How to create an e-Commerce website with Word-press?
+title:      How to create an e-Commerce website with Word-press ?
 subtitle:   Try out Woo-commerce plug-ins  
 date:       2020-05-16
 author:     HE Chen
@@ -10,8 +10,8 @@ tags:
     - IT
 ---
 
-
-
 ##### How to create an e Commerce website with Word-press
 
 Placeholder 
+
+To be continued...
