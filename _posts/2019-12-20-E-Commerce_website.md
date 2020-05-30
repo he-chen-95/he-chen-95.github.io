@@ -10,8 +10,6 @@ tags:
     - IT
 ---
 
-##### How to create an e Commerce website with Word-press
-
 Placeholder 
 
 To be continued...
