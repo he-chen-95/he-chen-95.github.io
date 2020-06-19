@@ -97,12 +97,12 @@ header-img: "img/home-bg-o.jpg"
     // handle render
     function _render(){
         var _hash = window.location.hash;
-        // en
-        if(_hash == "#en"){
+        // zh
+        if(_hash == "#zh"){
             $select.selectedIndex = 1;
             $en.style.display = "block";
             $zh.style.display = "none";
-        // zh by default
+        // en by default
         }else{
             // not trigger onChange, otherwise cause a loop call.
             $select.selectedIndex = 0;
@@ -113,7 +113,7 @@ header-img: "img/home-bg-o.jpg"
 
     // handle select change
     function onLanChange(index){
-        if(index == 1){
+        if(index == 0){
             window.location.hash = "#en"
         }else{
             window.location.hash = "#zh"
