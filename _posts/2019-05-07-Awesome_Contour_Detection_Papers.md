@@ -3,7 +3,7 @@ layout:     post
 title:      Awesome Contour Detection Papers
 subtitle:   A collection of papers on contour detection
 date:       2019-05-07
-author:     HE Chen
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
