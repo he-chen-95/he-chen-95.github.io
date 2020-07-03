@@ -3,7 +3,7 @@ layout:     post
 title:      My software recommendations for PhD student 
 subtitle:   A collection of tools
 date:       2020-05-16
-author:     HE Chen
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
