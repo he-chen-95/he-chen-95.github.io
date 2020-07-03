@@ -3,7 +3,7 @@ layout:     post
 title:      2019 Stop Doing List
 subtitle:   Reading list of Machine Learning and Data Mining
 date:       2019-05-03
-author:     HE Chen
+author:     Chen HE
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
