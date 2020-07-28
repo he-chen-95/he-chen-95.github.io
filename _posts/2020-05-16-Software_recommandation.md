@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      My software recommendations for PhD student 
+title:      My software recommendations for PhD students
 subtitle:   A collection of tools
 date:       2020-05-16
 author:     Chen HE
