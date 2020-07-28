@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![coast](https://github.com/he-chen-95/Chen-Image-Host/blob/master/2015/East-Coast-Summer-Series-Cape-Elizabeth.jpg)
+![coast](https://github.com/he-chen-95/Chen-Image-Host/raw/master/2015/East-Coast-Summer-Series-Cape-Elizabeth.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ tags:
 
 --- 
 
-![coast-sunset](https://github.com/he-chen-95/Chen-Image-Host/blob/master/2015/coast-sunset.jpg)
+![coast-sunset](https://github.com/he-chen-95/Chen-Image-Host/raw/master/2015/coast-sunset.jpg)
 
 ---
 给每一条河每一座山取一个温暖的名字
