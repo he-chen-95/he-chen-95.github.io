@@ -20,6 +20,10 @@ tags:
 
 ---
 
+![coast](https://github.com/he-chen-95/Chen-Image-Host/blob/master/2015/East-Coast-Summer-Series-Cape-Elizabeth.jpg)
+
+---
+
 从明天起，和每一个亲人通信
 
 告诉他们我的幸福
@@ -30,6 +34,9 @@ tags:
 
 --- 
 
+![coast-sunset](https://github.com/he-chen-95/Chen-Image-Host/blob/master/2015/coast-sunset.jpg)
+
+---
 给每一条河每一座山取一个温暖的名字
 
 陌生人，我也为你祝福
