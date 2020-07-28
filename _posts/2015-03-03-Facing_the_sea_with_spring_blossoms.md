@@ -2,7 +2,7 @@
 layout:     post
 title:      面朝大海，春暖花开
 subtitle:   Facing the sea with spring blossoms
-date:       2016-09-26
+date:       1989-01-13
 author:     海子
 header-img: img/post-bg-2015.jpg
 catalog: true
