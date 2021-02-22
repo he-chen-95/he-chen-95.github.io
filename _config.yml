@@ -78,6 +78,9 @@ featured-condition-size: 3              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+# Google adsense
+google_ad_client: ca-pub-2377834943581945
+
 # Friends
 # friends: [
 #     {
